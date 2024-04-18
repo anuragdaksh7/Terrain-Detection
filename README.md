@@ -21,7 +21,7 @@ layers -
 - dense layer 4
 
 # installation
-you can download pre trained model from "here" //link to be added later
+you can download pre trained model from ["here"](https://drive.google.com/file/d/1r4ctuPkIpdrLgYywWV8--kexfCswFMvW/view?usp=drive_link)
 ```bash
 git clone https://github.com/anuragdaksh7/Terrain-Detection.git
 cd Terrain-Detection
