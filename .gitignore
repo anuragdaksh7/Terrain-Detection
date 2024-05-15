@@ -1,3 +1,5 @@
 ./frontend/__pycache__
 ./frontend/node_modules
+/frontend/terrain-recog.keras
+/frontend/terrain-recog.h5
 

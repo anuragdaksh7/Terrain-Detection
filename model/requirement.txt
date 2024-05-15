@@ -1,9 +1,0 @@
-numpy
-matplotlib
-opencv-python
-pandas
-seaborn
-ImageHash
-tensorflow
-keras
-scikit-learn
